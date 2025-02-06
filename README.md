@@ -16,7 +16,7 @@
 - 🔭 Currently building **FramefusionAI** – an image generation platform from text.
 - 📚 Always learning & exploring **Backend Engineering, DevOps, and AI integrations**.
 - 🎯 Goal: To contribute to Open Source & level up in **Competitive Programming**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/amancodes26) | [Twitter](https://twitter.com/amancodes26)**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-singh-2026s/) 
 
 ---
 
